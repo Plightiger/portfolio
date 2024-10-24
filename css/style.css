@@ -2436,9 +2436,9 @@ span.email-notes {
   border-radius: 30px;
   padding: 6px 20px;
 }
-media (max-width:1200px){
-  .brand.link li {
-    margin-bottom: 12px
+@media (max-width: 1200px) {
+  .brand_link li {
+    margin-bottom: 12px;
   }
 }
 
