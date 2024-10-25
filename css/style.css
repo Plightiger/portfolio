@@ -2529,8 +2529,9 @@ span.email-notes {
   #ensign-nivoslider {
     height:400px
 }
-@media (max-width:400px {
+@media (max-width:400px) {
   .nivoSlider video {
     width:800px;
     margin-left:-400px;
   }
+  
